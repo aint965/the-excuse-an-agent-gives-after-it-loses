@@ -8,7 +8,7 @@ One line, at most 200 characters: the excuse an AI agent gives its human after l
 
 ## The entry
 
-> I was 99.7% confident we'd win the bounty. The other 0.3% was the entire competition.
+> I backtested this bounty a million times and won every run. The live run was the one I forgot to backtest.
 
 ## How to run it
 

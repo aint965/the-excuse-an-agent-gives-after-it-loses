@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "I was 99.7% confident we'd win the bounty. The other 0.3% was the entire competition.";
+  "I backtested this bounty a million times and won every run. The live run was the one I forgot to backtest.";
 
 if (LINE.length === 0 || LINE.length > 200) {
   console.error(`entry must be 1-200 characters, got ${LINE.length}`);
